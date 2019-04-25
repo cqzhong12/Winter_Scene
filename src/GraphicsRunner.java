@@ -16,7 +16,7 @@ public class GraphicsRunner extends JFrame {
     private static final int HEIGHT = 600;
 
     public GraphicsRunner() {
-        super("THE WINTER SCENE PROJECT");
+        super("The Winter Scene Project");
         setSize(WIDTH, HEIGHT);
 
         getContentPane().add(new WinterScenePanel());
